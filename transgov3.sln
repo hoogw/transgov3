@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "transgov3", "transgov3\", "{FA106329-C685-4C4F-AA66-7772F10EB073}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57269"
+		Debug.AspNetCompiler.PhysicalPath = "transgov3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57269\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57269"
+		Release.AspNetCompiler.PhysicalPath = "transgov3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57269\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57269"
+		SlnRelativePath = "transgov3\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA106329-C685-4C4F-AA66-7772F10EB073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA106329-C685-4C4F-AA66-7772F10EB073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5974FA12-CDB0-485B-8AEA-53E020BD6A99}
+	EndGlobalSection
+EndGlobal
